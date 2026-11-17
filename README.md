@@ -77,9 +77,9 @@ I design and deliver microservices platforms end to end: architecture and requir
 
 **Highlights**
 - Architected a microservices-based warehouse automation platform integrating robots via REST APIs and raw socket protocols, applying API gateway and event-driven patterns for scalability and high availability
-- Engineered CI/CD pipelines and full-stack observability across distributed services, with SLO tracking and alerting, and led incident diagnosis and RCA for production failures
 - Led a 10-engineer cross-functional team delivering a Mastercard White Label BillPay automation platform with full PCI DSS compliance
 - Contributed to Outlook for Android at Microsoft India R&D, serving 100M+ daily active users
+- Engineered CI/CD pipelines and full-stack observability across distributed services, with SLO tracking and alerting, and led incident diagnosis and RCA for production failures
 
 ## 🏅 Certifications
 
