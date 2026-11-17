@@ -5,6 +5,13 @@
 I design and deliver microservices platforms end to end: architecture and requirements first, then secure, tested, containerised delivery through CI/CD into production with observability. I've led cross-functional teams of 6–10 engineers across mobile, backend, QA, UI/UX, and DevOps.
 
 ---
+**Highlights**
+- Architected a microservices-based warehouse automation platform integrating robots via REST APIs and raw socket protocols, applying API gateway and event-driven patterns for scalability and high availability
+- Led a 10-engineer cross-functional team delivering a Mastercard White Label BillPay automation platform with full PCI DSS compliance
+- Contributed to Outlook for Android at Microsoft India R&D, serving 100M+ daily active users
+- Engineered CI/CD pipelines and full-stack observability across distributed services, with SLO tracking and alerting, and led incident diagnosis and RCA for production failures
+
+<img width="1200" height="720" alt="highlights" src="https://github.com/user-attachments/assets/d9129cd0-8730-4844-b7be-bd0803339059" />
 
 ## 🔭 Currently
 
@@ -20,6 +27,10 @@ I design and deliver microservices platforms end to end: architecture and requir
 - **Delivery:** CI/CD (GitHub Actions, Jenkins), TDD, test automation, Agile/Scrum
 - **Quality & security:** SonarQube, OWASP secure coding, OAuth2.0, JWT, DevSecOps practices, PCI DSS and GDPR awareness
 - **Observability & reliability:** Prometheus, Grafana, Datadog, SLO tracking, alerting, incident diagnosis and RCA, high availability
+
+
+
+
 
 ## 🛠️ Tech Stack
 
@@ -75,11 +86,6 @@ I design and deliver microservices platforms end to end: architecture and requir
 | Software Engineer | Vignette IT Solutions | Sep 2009 – Mar 2012 |
 | Software Engineer | Persistent Systems | Jan 2008 – Aug 2009 |
 
-**Highlights**
-- Architected a microservices-based warehouse automation platform integrating robots via REST APIs and raw socket protocols, applying API gateway and event-driven patterns for scalability and high availability
-- Led a 10-engineer cross-functional team delivering a Mastercard White Label BillPay automation platform with full PCI DSS compliance
-- Contributed to Outlook for Android at Microsoft India R&D, serving 100M+ daily active users
-- Engineered CI/CD pipelines and full-stack observability across distributed services, with SLO tracking and alerting, and led incident diagnosis and RCA for production failures
 
 ## 🏅 Certifications
 
